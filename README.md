@@ -58,7 +58,6 @@ The project utilizes the `Latest_Data_Science_Salaries.csv` dataset. This datase
 * `company_location`: Country of the company.
 * `company_size`: Size of the company (e.g., Small, Medium, Large).
 
-*(Note: During the execution in Google Colab, if the file is not uploaded, a dummy DataFrame is created for demonstration purposes, which may affect the R-squared values appearing as NaN due to limited data points.)*
 
 ## Methodology
 
@@ -97,7 +96,6 @@ This project is designed to be run in Google Colaboratory.
 3.  **Upload Dataset:**
     * In the Colab notebook, navigate to the "Data Loading" section.
     * Run the cell that prompts you to upload the `Latest_Data_Science_Salaries.csv` file. You will need to click "Choose Files" and select your dataset.
-    * *(If you don't have the dataset, the notebook includes fallback code to create a small dummy DataFrame, but results will be less meaningful.)*
 
 4.  **Run All Cells:** Go to `Runtime > Run all` to execute the entire notebook.
 
@@ -113,10 +111,5 @@ This project is designed to be run in Google Colaboratory.
 * **Deployment:** Integrate the trained model into a web application (e.g., Flask/Streamlit) for interactive predictions.
 * **Larger Dataset:** Obtain and utilize a larger, more diverse salary dataset for improved model generalization.
 
-## Contributing
 
-Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, please open an issue or submit a pull request.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+## Thanks....
