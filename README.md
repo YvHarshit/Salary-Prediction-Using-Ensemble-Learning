@@ -59,6 +59,21 @@ The project utilizes the `Latest_Data_Science_Salaries.csv` dataset. This datase
 * `company_size`: Size of the company (e.g., Small, Medium, Large).
 
 
+## Experience Level (experience_level)
+* `SE`: Senior-level
+* `MI`: Mid-level / Intermediate
+* `EN`: Entry-level
+* `EX`: Executive-level
+
+## Employment Type (employment_type)
+* `FT`: Full-time
+
+## Company Size (company_size)
+* `L`: Large
+* `M`: Medium
+* `S`: Small
+
+
 ## Methodology
 
 The project follows a standard machine learning pipeline:
